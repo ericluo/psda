@@ -8,6 +8,6 @@
 
 ## 具体案例
 
-* [招商银行财务分析]('https://nbviewer.jupyter.org/url/dataframe.oss-cn-beijing.aliyuncs.com/600036.ipynb')
+* [招商银行财务分析](https://nbviewer.jupyter.org/url/dataframe.oss-cn-beijing.aliyuncs.com/600036.ipynb)
 * [银行股行业分析]()
-* [新城控股商业地产分析]('https://nbviewer.jupyter.org/url/dataframe.oss-cn-beijing.aliyuncs.com/601155.ipynb')
+* [新城控股商业地产分析](https://nbviewer.jupyter.org/url/dataframe.oss-cn-beijing.aliyuncs.com/601155.ipynb)
