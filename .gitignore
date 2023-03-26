@@ -1,1 +1,3 @@
-伯克希尔股东大会笔记.epub
+*.epub
+dist/
+build/
