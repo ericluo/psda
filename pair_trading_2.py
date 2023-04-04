@@ -30,7 +30,7 @@ def bolling(periods = 20, boll_std = 2):
   df['UPPER'] = df['SMA'] + df['h_a_comp'].rolling(periods).std() * boll_std
   df['LOWER'] = df['SMA'] - df['h_a_comp'].rolling(periods).std() * boll_std
   return df.dropna()
-
+bolling()
 # df['ma5'] = df['h_a_comp'].rolling(5).mean()
 # df['ma20'] = df['h_a_comp'].rolling(20).mean()
 # df.iplot(bestfit=True)
@@ -87,5 +87,5 @@ def pair_trade(direction, strategy = 'value'):
     positions['A'] = cash / a_price
     positions['H'] = 0
 
-def trade_by_cash:
+def trade_by_cash():
   pass
